@@ -1,13 +1,13 @@
 # Mvvm-Rxswift
 
 
-📱 Crypto Tracker (MVVM + RxSwift)
+-📱 Crypto Tracker (MVVM + RxSwift)
 Kripto para fiyatlarını takip edebileceğiniz, MVVM mimarisi ve RxSwift kullanılarak geliştirilmiş iOS uygulaması.
 Uygulama, GitHub üzerindeki örnek bir JSON datasından kripto para bilgilerini çekiyor ve tabloda listeliyor.
 
 
 
-✨ Özellikler
+-✨ Özellikler
 ✅ MVVM mimarisi
 ✅ RxSwift ile Reactive Programming
 ✅ URLSession ile API’den veri çekme
@@ -16,9 +16,9 @@ Uygulama, GitHub üzerindeki örnek bir JSON datasından kripto para bilgilerini
 
 
 
-🛠 Kullanılan Teknolojiler
-Swift
-RxSwift / RxCocoa
-MVVM (Model-View-ViewModel)
-UIKit
-URLSession
+-🛠 Kullanılan Teknolojiler
+-Swift
+-RxSwift / RxCocoa
+-MVVM (Model-View-ViewModel)
+-UIKit
+-URLSession
