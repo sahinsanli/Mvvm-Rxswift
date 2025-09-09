@@ -7,7 +7,7 @@ Uygulama, GitHub üzerindeki örnek bir JSON datasından kripto para bilgilerini
 
 
 
--✨ Özellikler
+-✨ Özellikler <br>
 ✅ MVVM mimarisi
 ✅ RxSwift ile Reactive Programming
 ✅ URLSession ile API’den veri çekme
